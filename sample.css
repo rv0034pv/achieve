@@ -1,0 +1,34 @@
+.sample {
+  height:100px;
+  background-color: skyblue;
+  font-weight:bold;
+  position: relative;
+}
+.sample1 {
+  background-color: black;
+  color: red;
+  position: static;
+  top: 100px;
+  left: 101px;
+}
+.sample2 {
+  background-color: black;
+  color: red;
+  top: 150px;
+  left: 10px;
+  z-index: 1;
+}
+.sample3 {
+  background-color: black;
+  color: red;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.sample4 {
+  background-color: black;
+  color: red;
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}

@@ -1,2 +1,11 @@
-test.html
-readme.txt
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>DIVE INTO CODE</title>
+  </head>
+  <body>
+    <h1>DIVE INTO CODE</h1>
+    <p>HELLO WORLD</p>
+  </body>
+</html>
